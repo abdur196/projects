@@ -1,0 +1,181 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:  rgb(133, 63, 252 , 0.1);
+    flex-direction: row;
+
+}
+.top {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(133, 63, 252);
+    color: white;
+}
+.header {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:0;
+    z-index: 100;
+}
+.top2 {
+    position: fixed;
+    top: 110px;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    background-color: rgb(133, 63, 252);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 18px;
+}
+.logo
+{
+    width: 80px;
+    margin-left: 7PX;
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.name
+{
+
+    font-weight: bolder;
+    font-family: Roboto Mono;
+    font-size: larger;
+    font-weight:bold ;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: white;
+    cursor: pointer;
+    margin-left: 10px;
+
+}
+.login-block {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto; 
+    padding: 0px;
+    width: 300px; 
+    height: 300px;
+    border-radius: 10px;
+    background-color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.text
+{
+    font-family: 'Billabong', sans-serif;
+    margin-bottom: 15px;
+}
+.loginbar {
+    font-family: roboto;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    margin-top: 0;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+
+}
+.loginbar:focus
+{
+    outline-color: blueviolet;
+}
+.left-section
+{
+    
+    width: 170px;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    margin-left: 20px;
+    transition: opacity 0.2s ease; 
+    width: 80px;
+
+}
+.register
+{
+    font-size: 12px;
+    margin-top: 3px;
+    margin-left: 3px;
+    margin-bottom: 0;
+}
+.reg
+{
+    font-size: 13px;
+    margin-top: 0;
+    margin-left: 3px;
+    margin-bottom: 0;
+    font-weight: bold;
+    color: blueviolet;
+    cursor: pointer;
+    transition: opacity 0.15s;
+    display: inline-block;
+
+}
+.reg:hover
+{
+    opacity: 0.7;
+
+}
+.login-button
+{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+
+}
+.login {
+    background-color: rgb(133, 63, 252);
+    color: white;
+    border: none;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: opacity 0.15s;
+    transition: box-shadow 0.15s;
+    vertical-align: top;
+    margin-top: 30px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    
+   
+}
+
+.login:hover {
+    
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3)  ;
+    opacity: 0.9;
+   
+    
+}
+
+
+
+
