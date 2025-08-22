@@ -1,0 +1,6 @@
+LangChain is a Python framework for building applications powered by language models.
+It helps developers connect LLMs to data sources like PDFs, websites, or databases.
+LangChain also supports retrieval-augmented generation using vector stores like FAISS.
+covid 19 was very bad for a alot of people as alot of people lost there jobs and houses because of it.
+
+i am an intern
