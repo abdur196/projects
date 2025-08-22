@@ -1,0 +1,36 @@
+/* Container for the contact form */
+.container {
+    width: 80%;
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+/* Form styling */
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+label, input, textarea, button {
+    margin: 10px 0; /* Minimal margin for spacing */
+}
+
+/* Button styling */
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px; /* Padding for button */
+    border: none; /* No border */
+    cursor: pointer; /* Pointer on hover */
+}
+
+/* Button hover effect */
+button:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
+/* Contact info styling */
+.contact-info {
+    margin-top: 20px; /* Space above contact info */
+}

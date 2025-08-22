@@ -1,0 +1,151 @@
+# Tintash Leave Policy
+
+---
+
+## Annual Leaves
+
+- Full-time permanent team members are entitled to 10 paid annual leaves per year.
+- Not applicable in the first year of joining (except pro-rata in special cases).
+- After the first year, leave cycle aligns with Jan–Dec.
+- Cannot be combined with other leaves unless approved.
+- Must apply at least 1 month in advance and coordinate with manager and team.
+- Unused leaves must be requested for carry-forward by emailing attendance@tintash.com and CCing the director.
+- If not used within Q1 of the following year, they will be annulled unless exceptions are approved in writing.
+
+**Departing Employees (Layoffs):**
+- May use accrued leave during notice period with manager's approval.
+- Unused leave = encashable.
+- Extra used leave = salary deduction.
+
+**Departing Employees (Voluntary):**
+- Leave usage during notice depends on director’s written approval.
+- Accrued leave is not eligible for encashment.
+
+---
+
+## Compensatory Leave (Working on Holidays)
+
+- Inform manager + People Ops.
+- Option 1: Take comp leave (paid time off).
+- Option 2: Get paid overtime (for billed projects only).
+
+---
+
+## Sick Leave
+
+- 7 paid sick leaves per year.
+- Over 2 consecutive days = doctor's certificate required.
+- Inform manager and attendance@tintash.com.
+- Half or quarter days allowed (deducted from quota).
+- Over-limit = medical proof required.
+
+---
+
+## Casual Leave
+
+- 8 paid casual leaves per year (pro-rated).
+- Max 2 days at a time.
+- Cannot be combined with other leaves unless approved.
+- Apply at least 1 day in advance.
+- In emergencies: call manager + explain pending work plan.
+- Excess = deducted from annuals or treated as unpaid leave.
+
+---
+
+## Parental Leave
+
+**Maternity:**
+- 12 weeks paid maternity leave (after 4 months at Tintash).
+- Must serve 6 months post-maternity (unless exception given).
+- Apply 6 weeks in advance.
+
+**Paternity:**
+- 5 working days (block leave, not alternate days).
+- Must be taken within 30 days of child’s birth.
+- Inform at least 1 week in advance.
+
+---
+
+## Wedding Leave
+
+- 2 weeks paid leave.
+- 1 month advance notice.
+- Can be combined with annual leave (max 4 weeks).
+
+---
+
+## Umrah Leave
+
+- 8 working days (once every 2 years, after 1 year at Tintash).
+- 2 months advance notice.
+- Only 1 team member per project allowed at a time (draw if multiple requests).
+
+---
+
+## Hajj Leave
+
+- Max 40 calendar days (or actual travel duration).
+- Once in entire Tintash service (after 2 years).
+- Must serve 6 months post-Hajj unless exception is granted.
+- 2 months advance notice + submit proof of travel.
+- Only 1 person from project allowed at a time (draw if more apply).
+- Additional days = unpaid leave.
+- Manager may deny approval based on project needs.
+
+---
+
+## Unpaid Leave
+
+- Allowed if sick + annuals are exhausted.
+- Max 5 consecutive unpaid days.
+- Overuse or unapproved = probation or termination risk.
+- Case-by-case for longer unpaid periods.
+
+---
+
+## Compassionate Leave
+
+- For serious illness, injury, or death in immediate family/household.
+- Refer to the detailed Compassionate Leave Policy on the Tintash Intranet.
+
+---
+
+## Half/Quarter Day Leave
+
+- Quarter leave (≤ 2 hrs): deduct 0.25 from leave quota.
+- Half leave (≤ 4 hrs): deduct 0.5 from leave quota.
+
+---
+
+## Previous Year Annual Leave
+
+- Only allowed if deferred due to projects.
+- Must send email to attendance@tintash.com with manager approval.
+- If combining with current year: 60-day advance notice.
+- Must use in Q1 of following year unless director-approved otherwise.
+
+---
+
+## Leave Encashment
+
+- Only for team members who couldn’t take annual leave due to workload.
+- Must have 1+ year at Tintash.
+- Only billed team members eligible.
+- Request must be approved by director and emailed before Dec 1.
+- Paid with January salary (in Feb).
+- Encashment is calculated on gross salary based on working days (e.g., 12 days = (monthly gross / 20) × 12).
+
+---
+
+## Backup During Leaves
+
+- Team member must arrange a backup before going on leave.
+- Backup should be willing, informed, and have access to relevant files.
+- All code and assets must be handed off in advance.
+
+---
+
+## Important Note:
+
+All leave requests are subject to project deliverables and deadlines.  
+Managers may reject or reschedule leave if critical project responsibilities exist.

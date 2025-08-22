@@ -1,0 +1,494 @@
+body {
+    margin: 0;
+    padding: 0;
+    padding-top: 80px;
+    background-color:  rgb(133, 63, 252 , 0.1);
+}
+.top
+{
+
+    height: 50px;
+    display: flex;
+    top:0px;
+    background-color: rgb(133, 63, 252);
+    flex-direction: row;
+    justify-content: center;
+    position: fixed;
+    width: 100%;
+
+
+
+
+    
+}
+.ttop
+{
+
+display: flex;
+align-items: center;
+
+    
+
+}
+.toptext
+{
+    cursor: pointer;
+    display: inline-block;
+    font-family: Roboto;
+    text-align: center;
+    color: white;
+
+
+
+}
+.toptextsell
+{
+    display: inline-block;
+    font-family: Roboto;
+    color: white;
+
+
+
+}
+.toptextsell:hover
+{
+    cursor: pointer;
+    text-decoration:underline;
+    
+    
+}
+
+
+
+.header
+{
+    position: fixed;
+    width: 100%;
+    top: 50px;
+    height: 50px;
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    z-index: 1;
+    
+
+}
+.left-section
+{
+    
+    width: 170px;
+    display: flex;
+    align-items: center;
+    border-radius: 50px;
+    margin-left: 20px;
+    transition: opacity 0.2s ease; 
+    width: 150px;
+    margin-right: 0;
+    cursor: pointer;
+
+
+
+    
+
+}
+.left-section:hover
+{
+    opacity: 0.8;
+    
+}
+.logo
+{
+    width: 70px;
+    height: 70px;
+    margin-left: 7PX;
+    margin-top: 5px;
+
+
+}
+
+.name
+{
+
+    font-weight: bolder;
+    font-family: Roboto Mono;
+    font-size: larger;
+    font-weight:bold ;
+    margin-top: 20px;
+    margin-right: 20px;
+    color: white;
+
+    margin-left: 10px;
+
+}
+
+
+
+
+
+
+.mid-section
+{
+
+    flex: 1;
+    margin-left: 20px;
+    margin-right: 35px;
+    max-width: 10000px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+
+}
+.searchbar
+{
+    flex: 1;
+    height: 36px;
+    padding-left: 10px;
+    font-size: 16px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-top-left-radius: 100px;
+    border-bottom-left-radius: 100px;
+    box-shadow: inset 1px 2px 5px rgb(0, 0, 0, 0.15);
+    max-width: 500px;
+    background-color: rgb(53, 53, 53);
+    color: white;
+    min-width: 50px;
+    margin-left: 50px;
+
+
+
+}
+.searchbar:focus
+{
+outline: none;
+color: white;
+
+
+}
+.searchbar::placeholder
+{
+    font-family: roboto;
+    font-size: 15px;
+    padding-left: 5px;
+    color: rgb(255, 255, 255);
+
+}
+.searchb
+{
+height: 40px;
+width: 60px;
+background-color: rgb(53, 53, 53);
+border-width: 1px;
+border-color: rgb(14, 14, 14);
+margin-left: -2;
+border-top-right-radius: 100px;
+border-bottom-right-radius: 100px;
+border-style: solid;
+
+}
+.voiceb
+{
+    height: 43px;
+    width: 43px;
+    margin-left: 4px;
+    border-radius: 100px;
+    border: none;
+    background-color: rgb(53, 53, 53);
+    
+
+}
+.search-icon
+{
+    height: 25px;
+    margin-top: 4px;
+    margin-right: 2px;
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+}
+.voice-icon
+{
+    height: 27px;
+    width: 27px;
+    margin-top: 3px;
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+
+}
+
+
+
+.right-section
+{
+
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: end;
+    margin-right: 20px;
+    flex-shrink: 0;
+    
+
+
+}
+.cart {
+    height: 35px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+    margin-top: 5px;
+}
+
+.cart-item {
+    position: relative;
+}
+
+.item-count {
+    position: absolute;
+    top: 30%;
+    right: 37%; 
+    transform: translate(50%, -50%);
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+    color: rgb(173, 133, 243);
+    font-weight: bold;
+    border-radius: 100%;
+    font-family: Roboto, Arial;
+    cursor: pointer;
+}
+
+.order
+{
+    height: 33px;
+    margin-left: 5px;
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+
+
+}
+.custumer
+{
+    height: 33px;
+    border-radius: 100%;
+    margin-left: 10px;
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+
+}
+.pic
+{
+    height: 33px;
+    border-radius: 100%;
+    margin-left: 15px;
+    cursor: pointer;
+    transition: opacity 0.2s ease; 
+
+
+}
+.search-icon:hover,
+.voice-icon:hover,
+.custumer:hover,
+.order:hover,
+.pic:hover,
+.cart-item:hover
+{
+    opacity: 0.7;
+}
+.genres
+{
+    position: fixed;
+    width: 100%;
+    top: 100px;
+    margin-left: -2px;
+    display: flex;
+    font-family: Roboto;
+    justify-content: space-around;
+    align-items: center;
+    background-color:  rgb(133, 63, 252);
+    height: 80px;
+    border-bottom-width: 1px ;
+    border-style: solid;
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3)  ;
+    
+
+}
+.genres-type
+{
+    margin-left: 30px;
+    margin-right: 35px;
+    transition: opacity 0.2s ease; 
+    color: white;
+    font-weight: bolder;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius:18px ;
+
+    
+
+}
+.page
+{
+    background-color: rgb(255, 255, 255 , 0.2);
+}
+.genres-type:hover
+{
+    cursor: pointer;
+    opacity: 0.7;
+}
+.headerr
+{
+    display: flex;
+    justify-content: start;
+    margin-top: 105px;
+    margin-bottom: 0;
+    width: 100%;
+
+
+}
+.rack {
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 20px;
+
+}
+
+.book-info {
+    margin-bottom: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 32%;
+    box-sizing: border-box;
+    padding: 15px;
+    margin-right: 20px; 
+    background-color: #f9f9f9; 
+    border-radius: 8px;
+    font-family: roboto;
+    cursor: pointer; 
+
+   
+}
+.book-info:hover{
+     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); 
+
+}
+
+.book-image {
+    width: 30%; 
+    height: auto;
+    margin-right: 40px; 
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.title
+{
+    font-weight: bolder;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.author {
+
+    margin: 0;
+    display: inline-block;
+
+}
+.author:hover
+{
+    text-decoration: underline;
+    color:   rgb(133, 63, 252);
+}
+
+.stats {
+    max-width: 300px;
+}
+.price
+{
+    margin-top: 0px;
+    font-weight: bolder;
+}
+.added {
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 0;
+    color: rgb(133, 63, 252);
+    opacity: 0;
+    transition: opacity 0.7s;
+    margin-bottom: 5px;
+}
+.added:active {
+    opacity: 1;
+}
+
+.cart-button {
+    background-color: rgb(133, 63, 252);
+    color: white;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 5px;
+    transition: opacity 0.15s, box-shadow 0.15s;
+    vertical-align: bottom;
+    width: 150px;
+}
+.cart-button:hover {
+    box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.3);
+    opacity: 0.9;
+}
+.cart-button:active {
+    opacity: 0.5;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width: 1000px) {
+    .book-info {
+        width: 48%; 
+    }
+}
+
+
+@media screen and (max-width: 600px) {
+    .book-info {
+        width: 100%; 
+        margin-right: 0; 
+    }
+}
+
+
+
+
