@@ -1,0 +1,68 @@
+# Tintash Attendance & Work Schedules Policy
+
+---
+
+## Hybrid/online Work Model
+
+- Tintash is transitioning from fully remote to a hybrid/online work model.
+- Employees are encouraged to visit the office 1–2 times per week.
+- All team members must maintain work discipline and log 40 productive hours per week, regardless of work location.
+
+---
+
+## Work Schedule/timmings Options
+
+Choose and get approval for one of the following schedules. Email your chosen schedule to People Operations after getting approval from your Project Manager (PM) or Team Manager (TM):
+timmings:
+### A – 10:00 AM to 7:00 PM  
+### B – 11:00 AM to 8:00 PM  
+### C – 12:00 PM to 9:00 PM
+
+> Includes 1-hour break for lunch, school pickup, or personal needs. Breaks should be reflected in Google Calendar.
+
+---
+
+## Project Teams & Variable Hours
+
+- For project teams, BD, Lead Gen, and Lead Conversion, hours may vary.
+- PMs will set and communicate the team’s working hours to People Ops.
+- To accommodate global clients, some project-based schedules may require evening availability.
+
+### Examples:
+
+#### D – 10:00 AM to 4:00 PM & 8:00 PM to 10:00 PM  
+#### E – 11:00 AM to 5:00 PM & 9:00 PM to 11:00 PM  
+#### F – 12:00 PM to 6:00 PM & 9:00 PM to 11:00 PM
+
+> Ratio of day to night hours can vary from 5:3 to 6:2.
+
+---
+
+## Workday Guidelines
+
+- Team members must work a continuous 5–6 hour block after starting the day.
+- Workday can be split to accommodate client calls (with manager approval).
+- Chosen work routine should be followed consistently.
+- All essential personal breaks (e.g., lunch, prayer, school runs) must be added to Google Calendar.
+
+---
+
+## Google Calendar
+
+- Update your calendar to reflect your working hours.
+- Mark all breaks and availability clearly to ensure team collaboration and coordination.
+
+---
+
+## Remote Hour Logging
+
+- All team members must log remote hours on **Tinvoice** monthly.
+- The company uses these hours for payroll and project billing.
+- Link: [https://tinvoice.tintash.com](https://tinvoice.tintash.com)
+
+---
+
+## Leave Reference
+
+- For information about leave entitlements and processes, refer to the `leave_policy_tintash.txt` file.
+

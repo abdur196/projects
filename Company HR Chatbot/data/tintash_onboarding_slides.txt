@@ -1,0 +1,271 @@
+# Tintash Company Overview & Onboarding Slides
+
+---
+
+## Company Overview:
+
+**Tintash is Global**  
+Locations:
+- Pakistan
+- USA
+- Canada
+- Norway
+- UAE
+- Ukraine
+
+**Stats:**
+- Around 100 employees
+- 17+ years of experience
+- 12 functional teams
+
+---
+
+##  Agenda:
+
+- Our Products & Services  
+- Our Teams & TMs  
+- Our Values  
+- Growth Opportunities  
+- Benefits of Working at Tintash  
+- Employee Assistance  
+- FAQs  
+- Next Steps  
+
+---
+
+##  Services and Expertise:
+
+**Services:**
+- Web Development
+- Mobile App Development
+- Game Development
+- UX/UI Design
+- Project Management
+- Quality Assurance
+
+**Areas of Expertise:**
+- AR / VR
+- EdTech
+- Games
+- HealthTech
+- IoT
+- FinTech
+- Blockchain Development
+
+---
+
+##  Our Products:
+
+- Eddie’s Game Factory: Nail Salon and Food-cutting  
+- Polkacity  
+- All 3D  
+- Stick Cricket  
+
+---
+
+## Our Teams and Team Members (TMs):
+
+- **Web:** Abdul Muneeb, Meer (EM Moiz Imran)  
+- **Mobile:** Maaz Azhar  
+- **Games:** Usman Javed  
+- **UX:** Harris Wahid  
+- **Art & UI:** Usman Javaid / Rao Moeed  
+- **Project Management:** Farooq Asif  
+- **QA:** Saad Salman  
+- **Business Development:** Hassan Kapasi, Sher Ali, Saima Khalid  
+- **Finance:** Shahid Iqbal, Mudassar Raza  
+- **People Operations:** Faizan Rasool, Qurratulain  
+- **Blockchain/Web3:** Azhar Yousaf  
+
+---
+
+##  Our Core Values:
+
+(Not explicitly listed in slide but referenced)
+
+---
+
+##  Growth Opportunities:
+
+- Effort-driven growth  
+- Cross-functional growth possibilities (e.g., Blockchain team)  
+- Bi-annual reviews post-probation  
+- Weekly feedback  
+- Constant Feedback and Recognition
+
+---
+
+## Employee Benefits Overview:
+
+- Paid Leaves  
+- Health Insurance  
+- Internet Device  
+- Referral Bonus  
+- Provident Fund  
+- Gym Allowance  
+- Car Benefit  
+- Dollar Pegged Salary  
+- Mobile Policy  
+- Paid Therapy  
+
+---
+
+## Health Insurance (IPD):
+
+**Coverage Options:**
+- Family: Spouse, Children, Parents  
+- Individual
+
+**Plans:**
+- Plan A: Grade 4+, Limit 500,000 PKR, Room 15,000/day  
+- Plan B: Grade 1–3, Limit 300,000 PKR, Room 8,000/day  
+
+---
+
+## General Wellbeing Allowance:
+
+- PKR 4,500/month for health & fitness  
+- Claim by 17th each month via: **reimbursements@tintash.com**
+
+---
+
+##  Provident Fund:
+
+- Tintash contribution: 5% of basic salary  
+- Employee contribution: 5%  
+- Investments through Islamic Banking  
+
+---
+
+## Health Insurance (OPD):
+
+- Nodes & Partners: USD 260/year  
+- Others: USD 140/year  
+- Reimbursement with original receipts at **reimbursements@tintash.com**
+
+---
+
+##  Paid Leaves:
+
+- Annual: 10  
+- Sick: 7  
+- Casual: 8  
+- Other: Maternity, Paternity, Hajj/Umrah, Wedding  
+- Carry forward & encashment options available  
+- Apply via: **attendance@tintash.com**
+
+---
+
+##  In-house Therapy / Counselling:
+
+- **Psychologist:** Sabaenah Salim  
+- **Booking:** Calendly Link  
+
+**Policy:**
+- 1 session every 2 weeks  
+- Duration: 45 minutes  
+- 24-hour cancellation policy  
+- Notes encouraged  
+- External referral if needed
+
+---
+
+## Referral Bonus:
+
+- Grade 1: Rs 15,000  
+- Grade 2–3: Rs 25,000  
+- Grade 4+: Rs 50,000  
+- Refer via: **careers@tintash.com**
+
+---
+
+##  Dollar Pegged Salary:
+
+- Gross salary pegged to USD  
+- Conversion uses a base rate pre-dollar jump  
+- Monthly reconversion to PKR  
+- Applies post-probation  
+
+---
+
+##  Car Benefit:
+
+- Grade 4+: PKR 37,000/month  
+- Grade 3: PKR 30,000/month  
+
+---
+
+##  Mobile Policy:
+
+- 10-month installment plan  
+- 0% markup  
+- Deducted from monthly salary  
+
+---
+
+##  Employee Assistance:
+
+- Device allocation  
+- Workspace setup  
+- Official email ID  
+- Photo required on all accounts (face-only, CNIC name format)  
+- Contact: **helpdesk@tintash.com**
+
+---
+
+##  Contacts Summary:
+
+- **Leaves:** attendance@tintash.com  
+- **Helpdesk:** helpdesk@tintash.com  
+- **Reimbursements:** Reimbursement Form  
+
+---
+
+##  Contractors / Interns / Part-time:
+
+- No benefits  
+- Must submit invoices (with TM approval, NTN/CNIC, bank info)  
+- Paid via Deel  
+- Invoice Template: Link  
+
+---
+
+##  Compensation:
+
+- **Permanent:** Provide bank account details to Mudassar Raza & Shahid Iqbal  
+- **Contractors:** Paid via Deel within 10 days  
+- Contact: **Mishal Asjed**
+
+---
+
+##  Next Steps:
+
+- Setup Slack, Camaradly, Zoom  
+- Introductions + photo submission  
+- Overview of **we.tintash.com**  
+- Enable 2FA  
+- Book training sessions (POPs)
+
+---
+
+##  Tinvoice Hour Logging:
+
+- Daily or weekly hour logging required  
+- Use: **https://tinvoice.tintash.com/**
+
+---
+
+##  InfoSec & ISO Compliance:
+
+**About ISO (International Organization for Standardization):**
+- Builds client trust  
+- Protects data  
+- Ensures high-quality delivery  
+
+**Your Role:**
+- Follow policies & procedures  
+- Secure data  
+- Report issues & breaches  
+- Ensure quality & adherence  
+
+---
