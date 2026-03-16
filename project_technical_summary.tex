@@ -1,0 +1,56 @@
+\documentclass[twocolumn]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{enumitem}
+\usepackage[left=1.2cm,right=1.2cm,top=1.2cm,bottom=1.2cm]{geometry}
+\setlength{\parskip}{0.5em}
+\setlength{\parindent}{0pt}
+\title{\vspace{-2em}\small Technical Summary: Med Vision Chat\vspace{-1em}}
+\author{\small}
+\date{}
+
+\begin{document}
+
+\maketitle
+\vspace{-2em}
+\small
+
+\section*{Frontend: Architecture and Workflow}
+The frontend is architected as a modern \textbf{React} application, leveraging \textbf{TypeScript} for static type checking and improved code reliability. The project uses \textbf{Vite} as its build tool and development server, enabling rapid iteration with hot module replacement and optimized production builds.
+
+\textbf{Styling} is handled with \textbf{Tailwind CSS}, providing utility-first, responsive design directly in JSX. For UI primitives and accessibility, the project integrates \textbf{Radix UI} and \textbf{shadcn/ui}, allowing for composable and accessible components such as dialogs, tabs, and tooltips.
+
+\textbf{Routing} is managed by \textbf{React Router}, enabling client-side navigation without full page reloads. \textbf{Global state} (such as session data, uploaded files, and chat history) is managed using React's Context API, ensuring state consistency across the application.
+
+\textbf{Data flow:}
+\begin{itemize}[leftmargin=2em]
+    \item Users upload X-ray images and input patient metadata via dedicated components.
+    \item The frontend uses \textbf{Axios} to send multipart/form-data and JSON payloads to the backend API endpoints.
+    \item Diagnosis results and visualizations are rendered dynamically, and users can interact with an AI chat assistant, with all chat context and history managed in the frontend state.
+\end{itemize}
+
+\columnbreak
+
+\section*{Backend: Architecture, Workflow, and Integration}
+The backend is implemented in \textbf{Python} using the \textbf{Flask} microframework, exposing a set of RESTful API endpoints. \textbf{Flask-CORS} is configured to allow secure cross-origin requests from the frontend.
+
+\textbf{Key backend components:}
+\begin{itemize}[leftmargin=2em]
+    \item \textbf{File Upload:} Receives and stores X-ray images, generating a unique session ID for each upload.
+    \item \textbf{Patient Data Processing:} On receiving patient data, the backend invokes a pre-trained \textbf{CheXNet} model (via \texttt{torchxrayvision} and PyTorch) to perform inference on the uploaded X-ray. The results and a matplotlib-generated visualization (encoded as base64) are stored in an in-memory session dictionary.
+    \item \textbf{Diagnosis Retrieval:} The frontend can request diagnosis results and visualizations for a given session via a GET endpoint.
+    \item \textbf{AI Chat:} For chat interactions, the backend formats the diagnosis and patient data into a prompt and calls a custom LLM module (\texttt{LLM.py}), which interacts with an external large language model (e.g., via HTTP API) to generate context-aware responses.
+\end{itemize}
+
+\textbf{Integration:}
+\begin{itemize}[leftmargin=2em]
+    \item The frontend and backend communicate exclusively via HTTP API calls (using Axios on the frontend).
+    \item All stateful data (uploaded files, patient info, diagnosis results, chat context) is managed per session on the backend, with session IDs passed between frontend and backend.
+    \item The backend is stateless with respect to persistent storage (sessions are in-memory), making it suitable for prototyping and easy to extend for production (e.g., by adding persistent storage or authentication).
+\end{itemize}
+
+\twocolumn[
+\section*{Summary}
+This architecture cleanly separates concerns: the frontend handles all user interaction and state management, while the backend is responsible for heavy computation (ML inference, LLM interaction) and secure data handling. The use of modern frameworks and libraries on both ends ensures maintainability, extensibility, and a robust developer experience.
+]
+
+\end{document} 
